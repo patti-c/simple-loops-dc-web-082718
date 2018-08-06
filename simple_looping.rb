@@ -26,7 +26,6 @@ def while_iterator(number_of_times)
   while number_of_times > 0 
     puts phrase
     number_of_times -= 1
-  
 end
 
 def until_iterator(number_of_times)
